@@ -1,5 +1,6 @@
 # BUGlobalMusicFestival Android
 
+
 CS591 Group 5am Project
 
 Made for: BU Art Initiative Orgnization
@@ -9,6 +10,37 @@ Part of BU Spart Project
 Spring 2018
 
 Creater: [Yuxiao Wang](https://github.com/o1xhack), Ruochen Ji(Richard), Sophia, Rebecca, Boman Yang
+
+
+
+
+
+# Important
+
+This is not the final one. Because of the security issue, we move our project to private one. So the stuff here is only a little part of the Whole project/APP.
+
+
+# Important
+
+This is not the final one. Because of the security issue, we move our project to private one. So the stuff here is only a little part of the Whole project/APP.
+
+
+
+
+# Important
+
+This is not the final one. Because of the security issue, we move our project to private one. So the stuff here is only a little part of the Whole project/APP.
+
+
+
+# Important
+
+This is not the final one. Because of the security issue, we move our project to private one. So the stuff here is only a little part of the Whole project/APP.
+
+
+# Important
+
+This is not the final one. Because of the security issue, we move our project to private one. So the stuff here is only a little part of the Whole project/APP.
 
 
 ----
